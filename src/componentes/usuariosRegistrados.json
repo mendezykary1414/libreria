@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "departamento": "Arauca",
+        "ciudad": "Arauquita",
+        "identificacion": "1109491558",
+        "nombres": "Duvan",
+        "apellidos": "Mendez",
+        "email": "duvan123@gmail.com",
+        "direccion": "eqeeqeqvtebevgbdfgd",
+        "telefono": "1234567890",
+        "fechaNacimiento": "2024-05-16",
+        "password": "Duvan123.",
+        "estado": "activo",
+        "rol": "usuario",
+        "fecha_Creacion": "2024-05-06T21:12:45.161Z"
+    }
+]
